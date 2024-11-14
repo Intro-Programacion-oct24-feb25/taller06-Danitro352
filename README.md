@@ -1,7 +1,7 @@
 # taller06
 
 ## Integrantes
-Adrian, Daniel Idrovo
+Adrian Urgiles, Daniel Idrovo
 
 ### Problema01
 
